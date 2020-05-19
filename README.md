@@ -1,4 +1,3 @@
- 
 # pdf2csv and pdf2json
 
 
@@ -14,8 +13,8 @@ this pc => right click => properties => advance system setting => environment va
 
 then add path "C:\Program Files\Java\jdk-11.0.7\bin" of java according to your system
 
-the install tabula liberary with help of pip
+the install tabula library with help of pip
 
 pip install tabula-py
 
-then run the code of jupyter notyebook.
+then run the code of jupyter notebook.
