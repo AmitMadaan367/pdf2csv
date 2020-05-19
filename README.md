@@ -1,5 +1,6 @@
-# pdf2csv
-# pdf2json
+ 
+# pdf2csv and pdf2json
+
 
 # requirements of this project
 
@@ -17,4 +18,4 @@ the install tabula liberary with help of pip
 
 pip install tabula-py
 
-then run the code.
+then run the code of jupyter notyebook.
