@@ -1,7 +1,7 @@
 # pdf2csv and pdf2json
 
 
-# requirements of this project
+# Requirements of this project
 
 python-3.7.4
 
